@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my undergraduate degree
 - 🌱 I’m currently learning more advanced computer science topics
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with contributing to large-scale projects
+- 🤔 I’m looking for help with contributing to large projects
 - 💬 Ask me about the Swift programming language
 - ⚡ Fun fact: I like deep-dish pizza
 
