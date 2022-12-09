@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47q5593u4ugwrylei7d8r3uo0txf9v78c3b4tpj9qk&rid=giphy.gif" align="right" width=40%>
 
-:eight_spoked_asterisk: &nbsp;  Working at <a href="https://jpmchase.com/"> J. P. Morgan Chase & Co.</a> (Internship in Summer 2022, Academic Year 2022-23) <br><br>
+:eight_spoked_asterisk: &nbsp;  Working at <a href="https://jpmorganchase.com/"> J. P. Morgan Chase & Co.</a> (Internship in Summer 2022, Academic Year 2022-23) <br><br>
 
 :eight_spoked_asterisk: &nbsp; Technical Fields:<br>
 &nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Linux/UNIX-like Systems <br>
