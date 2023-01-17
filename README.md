@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
-![github stats](https://github-readme-stats.vercel.app/api/?username=matthewa26&theme=tokyonight&show_icons=true&count_private=true)
+<!--![github stats](https://github-readme-stats.vercel.app/api/?username=matthewa26&theme=tokyonight&show_icons=true&count_private=true)-->
 <br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=matthewa26.matthewa26)
